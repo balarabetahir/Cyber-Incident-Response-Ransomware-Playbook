@@ -59,3 +59,6 @@ The playbook isn’t static. It needs to be updated regularly to reflect new thr
 
 Conclusion
 The goal of this playbook is not just to manage ransomware but to turn it into a learning experience that leaves the organization stronger. With a clear structure, defined roles, and alignment with standards, this playbook offers a practical, resilient approach to ransomware, one that doesn’t just respond to threats but adapts to them. And in cybersecurity, that’s the real measure of preparedness.
+
+![IRP](https://github.com/user-attachments/assets/2dfe47ab-3081-43f5-8ced-433b75f5892c)
+
