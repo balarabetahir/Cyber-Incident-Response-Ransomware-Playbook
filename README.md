@@ -1,4 +1,4 @@
-ransomware has evolved from a nuisance to one of the biggest threats companies face. A single incident can freeze operations, damage reputation, and lose customers. Preparing for ransomware means more than having a backup. It means having a structured playbook that guides you through every phase of an incident. That's where this ransomware playbook, built on NIST SP 800-61, comes in.
+Ransomware has evolved from a nuisance to one of the biggest threats companies face. A single incident can freeze operations, damage reputation, and lose customers. Preparing for ransomware means more than having a backup. It means having a structured playbook that guides you through every phase of an incident. That's where this ransomware playbook, built on NIST SP 800-61, comes in.
 
 NIST SP 800-61 is a set of guidelines from the National Institute of Standards and Technology for handling security incidents. It's practical and grounded in real-world practices, making it widely respected in cybersecurity. This playbook applies that approach specifically to ransomware, taking each phase of incident response and mapping out the steps.
 
